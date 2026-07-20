@@ -42,7 +42,7 @@ This Data Analytics & Power BI project investigates the root causes and socioeco
 ![Word Cloud Analysis](wordcloud.jpg)
 
 ### Food CPI Inflation Trends (Urban vs. Rural)
-![Food CPI Trends](cpi_trend.jpg)
+![Food CPI Trends](cpi_trend.png)
 
 ---
 

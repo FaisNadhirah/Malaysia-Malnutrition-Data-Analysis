@@ -36,13 +36,13 @@ This Data Analytics & Power BI project investigates the root causes and socioeco
 ## 🚀 4. Dashboard Preview & Visualizations
 
 ### Executive Dashboard Overview
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ### Thematic Analysis (Word Cloud)
-![Word Cloud Analysis](assets/wordcloud.png)
+![Word Cloud Analysis](wordcloud.png)
 
 ### Food CPI Inflation Trends (Urban vs. Rural)
-![Food CPI Trends](assets/cpi_trend.png)
+![Food CPI Trends](cpi_trend.png)
 
 ---
 
